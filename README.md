@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-wange-802255236) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shivaniwange2003)[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shivaniwange2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-wange-802255236) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shivaniwange2003) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shivaniwange2003@gmail.com)
 [![resume](https://img.shields.io/badge/Resume-59666C?logo=resume&logoColor=white)](https://drive.google.com/file/d/1uYdrNvKgcLLMvxzDCpMbqiRc28JqYKc9/view) 
 
 # 💻 Tech Stack:
