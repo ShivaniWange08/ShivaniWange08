@@ -32,9 +32,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ShivaniWange08&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniWange08&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShivaniWange08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
   ## 📈 Contribution Graph  
 [![Shivani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivaniWange08&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
