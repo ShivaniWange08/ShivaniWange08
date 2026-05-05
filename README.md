@@ -4,7 +4,7 @@
 💡 Always eager to learn and build scalable backend systems with clean, maintainable code.
 
 - 🔭 I’m currently working on: **VehixOne – Vehicle Management System** (Spring Boot + PostgreSQL + Swagger + SLF4J)  
-- 🌱 I’m currently learning: **Advanced Java, Spring Boot Microservices and Cloud (Azure)**  
+- 🌱 I’m currently learning: **Advanced Java, Spring Boot, Microservices and Cloud (Azure)**  
 - 👯 I’m looking to collaborate on: **Java + Spring Boot projects, Open Source APIs, and Full Stack applications**  
 - 🤔 I’m looking for help with: **Best practices in Microservices, Cloud deployment (Azure/AWS)**  
 - 💬 Ask me about: **Core Java, OOPs, Exception Handling, Collections, REST APIs, Spring Boot, PostgreSQL**  
